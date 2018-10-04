@@ -31,7 +31,3 @@ Neighborhood Map App featuring a map of a neighborhood you would like to visit.
 
 * Then the App should run on [port 8000](http://localhost:8000). 
 
-# react-neighbourhood-map-app
-# react-neighbourhood-map-app
-# react-neighbourhood-map-app
-# react-neighbourhood-map-app
